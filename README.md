@@ -23,3 +23,8 @@ This is a simple Python-based Quiz Application. It asks multiple-choice question
 
 ## Author
 Sandhiya
+![Quiz Output 1](quiz%20output_1.png.png)
+
+![Quiz Output 2](quiz%20outpu_2.png.png)
+
+![Quiz Final Output](quiz%20output-final.png.png)
